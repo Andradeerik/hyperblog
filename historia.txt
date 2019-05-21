@@ -1,2 +1,2 @@
-mi istoria esta es mi Historia 
-tengo 25 años y estoy aprendiendo git 
+Mi historia esta es mi Historia 
+tengo 25 años y estoy aprendiendo git.
